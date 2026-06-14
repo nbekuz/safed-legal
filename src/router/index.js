@@ -7,7 +7,7 @@ import ContactView from '../views/ContactView.vue'
 import { setPageMeta } from '../utils/seo'
 
 const router = createRouter({
-  history: createWebHistory('/test/'),
+  history: createWebHistory('/'),
   routes: [
     {
       path: '/',
