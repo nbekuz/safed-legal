@@ -40,10 +40,10 @@ const gapClass = computed(() => (props.size === 'sm' ? 'gap-2' : 'gap-3'))
       :class="padClass"
     >
       <svg viewBox="0 0 24 24" class="shrink-0" :class="iconClass" aria-hidden="true">
-        <path fill="#EA4335" d="M3.6 1.8c-.3.2-.6.6-.6 1.1v18.2c0 .5.3.9.6 1.1l10.2-10.2L3.6 1.8z" />
-        <path fill="#FBBC04" d="M16.2 12 6.5 21.7c.2.1.5.2.8.1l11.4-6.6-2.5-2.5z" />
-        <path fill="#4285F4" d="M21.7 10.5 18.7 8.7 15.6 12l3.1 3.3 3-1.7c.9-.5.9-1.7 0-2.1z" />
-        <path fill="#34A853" d="M6.5 2.3c-.3-.1-.6 0-.8.1l10.2 10.2L6.5 2.3z" />
+        <path fill="#EA4335" d="M3 20.5V3.5C3 2.91 3.34 2.39 3.84 2.15L13.69 12 3.84 21.85C3.34 21.61 3 21.09 3 20.5Z" />
+        <path fill="#FBBC04" d="M16.81 15.12 6.05 21.34 14.54 12.85 16.81 15.12Z" />
+        <path fill="#4285F4" d="M20.16 10.81c.34.27.59.68.59 1.19 0 .5-.25.92-.59 1.19L17.89 14.5 15.39 12l2.5-2.5 2.29-1.32Z" />
+        <path fill="#34A853" d="M6.05 2.66 16.81 8.88 14.54 11.15 6.05 2.66Z" />
       </svg>
       <span>
         <span class="block text-[10px] leading-none text-[#5f6368]">Get it on</span>
