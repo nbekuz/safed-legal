@@ -13,7 +13,7 @@ import AppLogo from './AppLogo.vue'
             <AppLogo name-class="text-base font-bold text-text" />
           </RouterLink>
           <p class="mt-3 text-sm font-medium text-brand-dark">
-            Safet © {{ new Date().getFullYear() }}. Все права защищены.
+            Safed © {{ new Date().getFullYear() }}. Все права защищены.
           </p>
         </div>
 

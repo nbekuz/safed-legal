@@ -7,7 +7,7 @@ import StoreButtons from './StoreButtons.vue'
   <section class="bg-brand px-4 py-14 sm:py-16">
     <div class="mx-auto max-w-3xl text-center">
       <h2 class="text-2xl font-extrabold tracking-tight text-white sm:text-3xl">
-        Скачать Safet
+        Скачать Safed
       </h2>
       <p class="mt-2 text-sm text-white/85 sm:text-base">
         Доступно для iOS и Android
@@ -25,7 +25,7 @@ import StoreButtons from './StoreButtons.vue'
       </h2>
       <p class="mt-3 text-sm leading-relaxed text-text-secondary sm:text-base">
         Политика конфиденциальности, условия использования и контакты службы
-        поддержки приложения Safet.
+        поддержки приложения Safed.
       </p>
       <div class="mt-8 flex flex-wrap justify-center gap-3">
         <RouterLink

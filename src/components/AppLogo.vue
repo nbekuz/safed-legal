@@ -12,10 +12,10 @@ const logoSrc = `${import.meta.env.BASE_URL}app.png`
   <div class="flex items-center gap-2.5 shrink-0">
     <img
       :src="logoSrc"
-      alt="Safet"
+      alt="Safed"
       class="rounded-xl object-cover shadow-sm"
       :style="{ width: `${size}px`, height: `${size}px` }"
     />
-    <span v-if="showName" :class="nameClass">Safet</span>
+    <span v-if="showName" :class="nameClass">Safed</span>
   </div>
 </template>

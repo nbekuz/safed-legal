@@ -4,7 +4,7 @@ import { RouterLink } from 'vue-router'
 
 const faq = [
   {
-    q: 'Как оформить заказ в Safet?',
+    q: 'Как оформить заказ в Safed?',
     a: 'Откройте каталог, добавьте товары в корзину, укажите адрес и время доставки, выберите способ оплаты и подтвердите заказ.',
   },
   {
@@ -33,7 +33,7 @@ const faq = [
 <template>
   <PageLayout
     title="Помощь"
-    subtitle="Ответы на частые вопросы о приложении Safet."
+    subtitle="Ответы на частые вопросы о приложении Safed."
     :show-legal-band="false"
   >
     <div class="space-y-3">

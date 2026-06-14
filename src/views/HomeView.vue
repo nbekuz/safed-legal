@@ -33,7 +33,7 @@ const steps = [
   {
     num: '01',
     title: 'Выберите товары',
-    text: 'Откройте каталог Safet, добавьте нужные продукты в корзину.',
+    text: 'Откройте каталог Safed, добавьте нужные продукты в корзину.',
   },
   {
     num: '02',
@@ -81,7 +81,7 @@ const steps = [
               <span class="text-brand-dark"> где вы.</span>
             </h1>
             <p class="mt-5 max-w-lg text-base leading-relaxed text-text-secondary sm:text-lg">
-              Safet — мобильное приложение для заказа продуктов с доставкой на дом.
+              Safed — мобильное приложение для заказа продуктов с доставкой на дом.
               Свежие товары, удобное оформление и прозрачный статус каждого заказа.
             </p>
             <div class="mt-8 flex flex-wrap items-center gap-3">
@@ -106,7 +106,7 @@ const steps = [
       <div class="mx-auto max-w-6xl">
         <div class="mx-auto max-w-2xl text-center">
           <h2 class="text-2xl font-extrabold tracking-tight text-text sm:text-3xl">
-            Почему выбирают Safet
+            Почему выбирают Safed
           </h2>
           <p class="mt-3 text-sm text-text-secondary sm:text-base">
             Всё необходимое для быстрой и удобной покупки продуктов онлайн.

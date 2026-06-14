@@ -3,7 +3,7 @@ import PageLayout from '../components/PageLayout.vue'
 </script>
 
 <template>
-  <PageLayout title="Контакты" subtitle="Служба поддержки Safet" :show-legal-band="false">
+  <PageLayout title="Контакты" subtitle="Служба поддержки Safed" :show-legal-band="false">
     <div class="grid gap-4 sm:grid-cols-2">
       <div class="rounded-2xl border border-border bg-white p-6 shadow-sm">
         <div class="mb-3 flex h-10 w-10 items-center justify-center rounded-xl bg-brand-soft text-brand-dark">
@@ -26,8 +26,8 @@ import PageLayout from '../components/PageLayout.vue'
           </svg>
         </div>
         <p class="text-xs font-semibold uppercase tracking-wide text-text-muted">Email</p>
-        <a href="mailto:support@safet.uz" class="mt-1 block text-base font-semibold text-brand-dark">
-          support@safet.uz
+        <a href="mailto:support@safed.uz" class="mt-1 block text-base font-semibold text-brand-dark">
+          support@safed.uz
         </a>
       </div>
 
@@ -39,12 +39,12 @@ import PageLayout from '../components/PageLayout.vue'
         </div>
         <p class="text-xs font-semibold uppercase tracking-wide text-text-muted">Telegram</p>
         <a
-          href="https://t.me/safet_support"
+          href="https://t.me/safed_support"
           target="_blank"
           rel="noopener noreferrer"
           class="mt-1 block text-base font-semibold text-brand-dark"
         >
-          @safet_support
+          @safed_support
         </a>
       </div>
     </div>

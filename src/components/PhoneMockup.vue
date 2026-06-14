@@ -11,7 +11,7 @@
         <div class="flex items-center justify-between">
           <img
             :src="logoSrc"
-            alt="Safet"
+            alt="Safed"
             class="h-7 w-7 rounded-lg object-cover"
           />
           <div class="h-7 w-7 rounded-full bg-brand-soft" />
